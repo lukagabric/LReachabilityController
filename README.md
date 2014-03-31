@@ -22,7 +22,7 @@ Notification is sent on reachability changed. Sample implementation:
         self = [super init];
         if (self)
         {
-            [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(reachChanged) name:kReachabilityChangedNotification object:nil];
+            [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(reachChanged) name:kReachabilityControllerStatusChanged object:nil];
         }
         return self;
     }

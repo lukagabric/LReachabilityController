@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>02B86393-A4CF-4B2A-AD50-AEB92553CDDC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LReachabilityController</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EEB71C4C-2CEB-4BE7-8F8B-0ABAEA5B1A7B</key>
+		<string>https://github.com/lukagabric/LReachabilityController.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LReachabilityController.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EEB71C4C-2CEB-4BE7-8F8B-0ABAEA5B1A7B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lukagabric/LReachabilityController.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EEB71C4C-2CEB-4BE7-8F8B-0ABAEA5B1A7B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EEB71C4C-2CEB-4BE7-8F8B-0ABAEA5B1A7B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LReachabilityController</string>
+		</dict>
+	</array>
+</dict>
+</plist>
